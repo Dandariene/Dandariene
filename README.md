@@ -1,4 +1,12 @@
 ### Hello, welcome! 👋
+### I'm Dandariene 👩‍💻
+
+I live in 🇧🇷
+I'm a student of Sistems Analysis and Development 👩‍🎓
+I like to read 📚 travel 🏖️ and love technology. 👩‍💻
+I study front end development and my goal is to becomean exxcellent professional in the field.
+
+
 
 <!--
 **Dandariene/Dandariene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
