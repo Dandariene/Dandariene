@@ -3,8 +3,8 @@
 
 -I live in 🇧🇷 <br>
 -I'm a student of Sistems Analysis and Development :computer:<br>
--I like to read :open_book: , travel :beach_umbrella: and love technology. :woman_technologist:
--I study front end development and my goal is to becomean exxcellent professional in the field.
+-I like to read :open_book: , travel :beach_umbrella:  love technology. :woman_technologist:<br>
+-I study front end development and my goal is to becomean excellent professional in the field.
 
 
 
