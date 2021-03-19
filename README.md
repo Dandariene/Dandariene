@@ -1,7 +1,7 @@
 ### Hello, welcome! 👋
 ## I'm Dandariene :woman_technologist:
 
--I live in 🇧🇷 <br>
+-I live in :brazil: <br>
 -I'm a student of Sistems Analysis and Development :computer:<br>
 -I like to read :open_book: , travel :beach_umbrella:  and technology. :woman_technologist:<br>
 -I study front end development and my goal is to becomean excellent professional in the field.
