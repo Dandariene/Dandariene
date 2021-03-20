@@ -12,7 +12,7 @@
   <img align="center" alt="dandariene-linkedin" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/dandarienebraz/" target="blank">
-  <img align="center" alt="dandariene-instagram" height="90" width="100" src=https://www.flaticon.com/free-icon/instagram_2111463"" style="max-width:100%;">
+  <img align="center" alt="dandariene-instagram" height="90" width="100" src="https://www.flaticon.com/free-icon/instagram_2111463" style="max-width:100%;">
 </a>
 
 
