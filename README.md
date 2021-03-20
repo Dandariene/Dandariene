@@ -14,8 +14,8 @@
 <a href="https://www.instagram.com/dandarienebraz/" target="blank">
   <img align="center" alt="dandariene-instagram" height="50" width="50" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
 </a>
-<a href="11986659382">
-  <img align="center" alt="dandariene-whatsapp" height="50" width="50" src="https://cdn.icon-icons.com/icons2/373/PNG/128/Whatsapp_37229.png" style="max-width:100%;">
+<a href="dandariene@hotmail.com" target="blank">
+  <img align="center" alt="dandariene-whatsapp" height="50" width="50" src="https://cdn.icon-icons.com/icons2/75/PNG/128/email_14733.png" style="max-width:100%;">
 </a>
 
 
