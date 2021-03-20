@@ -9,7 +9,7 @@
 <br>
 ## Connect with me: <br>
 <a href="https://www.linkedin.com/in/dandariene-rp-braz/" target="blank">
-  <img align="center" alt="dandariene-linkedin" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
+  <img align="center" alt="dandariene-linkedin" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
 </a>
 
 
