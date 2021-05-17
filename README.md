@@ -7,9 +7,9 @@
 -I study front end development and my goal is to becomean excellent professional in the field. :1st_place_medal: 
 <br>
 <br>
-<div>
-## Connect with me:
 
+## Connect with me:
+<div>
 <a href="https://www.linkedin.com/in/dandariene-rp-braz/" target="blank">
   <img align="center" alt="dandariene-linkedin" height="50" width="50" src="https://cdn.icon-icons.com/icons2/99/PNG/128/linkedin_socialnetwork_17441.png" style="max-width:100%;">
 </a>
