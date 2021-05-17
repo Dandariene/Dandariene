@@ -7,6 +7,7 @@
 -I study front end development and my goal is to becomean excellent professional in the field. :1st_place_medal: 
 <br>
 <br>
+<div>
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/dandariene-rp-braz/" target="blank">
@@ -24,7 +25,7 @@
 <a href="mailto:dandariene@hotmail.com" target="blank">
   <img align="center" alt="dandariene-email" height="50" width="50" src="https://img.icons8.com/nolan/2x/email-open.png" style="max-width:100%;">
 </a>
-
+</div>
 
 </p>
 <h2 align="left"> Tools:</h2>
