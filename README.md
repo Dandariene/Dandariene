@@ -14,6 +14,10 @@
 <a href="https://www.instagram.com/dandarienebraz/" target="blank">
   <img align="center" alt="dandariene-instagram" height="50" width="50" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
 </a>
+<a href="mailto:dandariene@hotmail.com" target="blank">
+  <img align="center" alt="dandariene-email" height="50" width="50" src="https://img.icons8.com/nolan/2x/email-open.png" style="max-width:100%;">
+</a>
+
 
 </p>
 <h2 align="left"> Tools:</h2>
