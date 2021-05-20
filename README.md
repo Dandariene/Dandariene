@@ -31,9 +31,20 @@
 <h2 align="left"> Tools:</h2>
 <p 
 align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_plain_wordmark_logo_icon_146476.png" alt="html5" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_wordmark_logo_icon_146574.png" alt="css3" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_plain_wordmark_logo_icon_146476.png" alt="html5" width="50" height="50"/> </a> 
+
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_wordmark_logo_icon_146574.png" alt="css3" width="50" height="50"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> </a>
+
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="html5" width="50" height="50"/> </a> 
+
+<a href="https://github.com/" target="_blank"> 
+<img src="https://cdn.icon-icons.com/icons2/673/PNG/128/github_icon-icons.com_60477.png" alt="html5" width="50" height="50"/> </a>
 
 
 
