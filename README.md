@@ -41,13 +41,13 @@ align="left">
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> </a>
 
 <a href="https://git-scm.com/" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="html5" width="50" height="50"/> </a> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="50" height="50"/> </a> 
 
 <a href="https://github.com/" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/673/PNG/128/github_icon-icons.com_60477.png" alt="html5" width="50" height="50"/> </a>
+<img src="https://cdn.icon-icons.com/icons2/673/PNG/128/github_icon-icons.com_60477.png" alt="github" width="50" height="50"/> </a>
 
 <a href="https://slack.com/intl/pt-br/" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png" alt="html5" width="50" height="50"/> </a>
+<img src="https://cdn.icon-icons.com/icons2/1488/PNG/128/5362-slack_102561.png" alt="slack" width="50" height="50"/> </a>
 
 
 
