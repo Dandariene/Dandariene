@@ -10,44 +10,58 @@
 
 ## Connect with me:
 <div>
-<a href="https://www.linkedin.com/in/dandariene-rp-braz/" target="blank">
-  <img align="center" alt="dandariene-linkedin" height="50" width="50" src="https://cdn.icon-icons.com/icons2/99/PNG/128/linkedin_socialnetwork_17441.png" style="max-width:100%;">
-</a>
+  <a href="https://www.linkedin.com/in/dandariene-rp-braz/" target="blank">
+    <img align="center" alt="dandariene-linkedin" height="50" width="50" src="https://cdn.icon-icons.com/icons2/99/PNG/128/linkedin_socialnetwork_17441.png" style="max-width:100%;">
+  </a>
 
-<a href="https://www.instagram.com/dandarienebraz/" target="blank">
-  <img align="center" alt="dandariene-instagram" height="50" width="50" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
-</a>
+  <a href="https://www.instagram.com/dandarienebraz/" target="blank">
+    <img align="center" alt="dandariene-instagram" height="50" width="50" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
+  </a>
 
-<a href="https://wa.me/5511986659382" target="blank">
-  <img align="center" alt="dandariene-telefone" height="50" width="50" src="https://cdn.icon-icons.com/icons2/41/PNG/128/whichapplication_conversation_email_phone_7097.png" style="max-width:100%;">
-</a>
+  <a href="https://wa.me/5511986659382" target="blank">
+    <img align="center" alt="dandariene-telefone" height="50" width="50" src="https://cdn.icon-icons.com/icons2/41/PNG/128/whichapplication_conversation_email_phone_7097.png" style="max-width:100%;">
+  </a>
 
-<a href="mailto:dandariene@hotmail.com" target="blank">
-  <img align="center" alt="dandariene-email" height="50" width="50" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Email_30017.png" style="max-width:100%;">
-</a>
+  <a href="mailto:dandariene@hotmail.com" target="blank">
+    <img align="center" alt="dandariene-email" height="50" width="50" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Email_30017.png" style="max-width:100%;">
+  </a>
 </div>
 
-</p>
-<h2 align="left"> Tools:</h2>
-<p 
-align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_plain_wordmark_logo_icon_146476.png" alt="html5" width="50" height="50"/> </a> 
+<div>
+  </p>
+  	<h2 align="left"> Tools:</h2>
+  <p 
+  align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_plain_wordmark_logo_icon_146476.png" alt="html5" width="50" height="50"/> 
+	</a> 
 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_wordmark_logo_icon_146574.png" alt="css3" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_wordmark_logo_icon_146574.png" alt="css3" width="50" height="50"/> 
+	</a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
+	</a>
+</div>
 
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="50" height="50"/> </a> 
+<div>
+  </p>
+  	<h2 align="left"> Versioning and comunication:</h2>
+  <p 
+  align="left"> 
+  <a href="https://git-scm.com/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="50" height="50"/> 
+  </a> 
 
-<a href="https://github.com/" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/673/PNG/128/github_icon-icons.com_60477.png" alt="github" width="50" height="50"/> </a>
+  <a href="https://github.com/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/673/PNG/128/github_icon-icons.com_60477.png" alt="github" width="50" height="50"/> 	
+	</a>
 
-<a href="https://slack.com/intl/pt-br/" target="_blank"> 
-<img src="https://cdn.icon-icons.com/icons2/1488/PNG/128/5362-slack_102561.png" alt="slack" width="50" height="50"/> </a>
+  <a href="https://slack.com/intl/pt-br/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/1488/PNG/128/5362-slack_102561.png" alt="slack" width="50" height="50"/> 
+	</a>
+</div>
 
 
 
