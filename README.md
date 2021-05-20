@@ -46,6 +46,9 @@ align="left">
 <a href="https://github.com/" target="_blank"> 
 <img src="https://cdn.icon-icons.com/icons2/673/PNG/128/github_icon-icons.com_60477.png" alt="html5" width="50" height="50"/> </a>
 
+<a href="https://slack.com/intl/pt-br/" target="_blank"> 
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png" alt="html5" width="50" height="50"/> </a>
+
 
 
 
