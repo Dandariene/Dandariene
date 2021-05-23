@@ -77,6 +77,7 @@
   </a>
 </div>
 <div>
+	<h2 align="left"> Github statistics:</h2>
 	<p>
 	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandariene&layout=compact&theme=graywhite&title_color=268bd2" alt="Dandariene-		   Braz" />
 	</p> 
