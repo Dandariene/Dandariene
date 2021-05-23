@@ -60,7 +60,11 @@
 
   <a href="https://slack.com/intl/pt-br/" target="_blank"> 
   	<img src="https://cdn.icon-icons.com/icons2/1488/PNG/128/5362-slack_102561.png" alt="slack" width="50" height="50"/> 
-	</a>
+  </a>
+	
+<a href="https://trello.com/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2429/PNG/128/trello_logo_icon_147221.png" alt="slack" width="50" height="50"/> 
+  </a>
 </div>
 
 
