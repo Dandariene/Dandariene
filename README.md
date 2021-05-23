@@ -81,14 +81,13 @@
 	<p>
 	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandariene&layout=compact&theme=graywhite&title_color=268bd2" alt="Dandariene-		   Braz" />
 	</p> 
-</div>
-<br><br><br>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dandariene&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Dandariene-Braz" />
 </p>
-<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dandariene" alt="Dandariene-Braz" /> </p>
+</div>
 
 <!--
 **Dandariene/Dandariene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
