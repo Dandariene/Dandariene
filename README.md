@@ -1,6 +1,8 @@
 ### Hello, welcome! 👋
 ## I'm Dandariene :woman_technologist:
 
+<img align="right" alt="octocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621784891747.png" width:"400px"/><br>
+
 -I live in <img align="center" alt="dandariene-email" height="18" width="21" src="https://cdn.icon-icons.com/icons2/1694/PNG/128/brbrazilflag_111698.png" style="max-width:100%;"><br>
 -I'm a student of Sistems Analysis and Development 💻 <br>
 -I like to read :open_book: , travel :beach_umbrella:  and technology. :woman_technologist:<br>
