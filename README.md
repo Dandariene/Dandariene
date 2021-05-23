@@ -1,8 +1,8 @@
 ### Hello, welcome! 👋
 ## I'm Dandariene :woman_technologist:
 
--I live in :brazil: <br>
--I'm a student of Sistems Analysis and Development <img align="center" alt="dandariene-email" height="20" width="20" src="https://cdn.icon-icons.com/icons2/107/PNG/128/brazil_18295.png" style="max-width:100%;">
+-I live in <img align="center" alt="dandariene-email" height="20" width="20" src="https://cdn.icon-icons.com/icons2/107/PNG/128/brazil_18295.png" style="max-width:100%;">
+-I'm a student of Sistems Analysis and Development 💻
 -I like to read :open_book: , travel :beach_umbrella:  and technology. :woman_technologist:<br>
 -I study front end development and my goal is to becomean excellent professional in the field. :1st_place_medal: 
 <br>
