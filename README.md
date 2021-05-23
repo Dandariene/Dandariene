@@ -1,6 +1,5 @@
 ### Hello, welcome! 👋
-## I'm Dandariene :woman_technologist:
-
+## "Start where you are. Use what you have. Do what you can."
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621784891747.png" width="400px" />
 
 -I live in <img align="center" alt="bandeira-Brazil" height="18" width="21" src="https://cdn.icon-icons.com/icons2/1694/PNG/128/brbrazilflag_111698.png" style="max-width:100%;"><br>
