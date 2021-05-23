@@ -34,15 +34,19 @@
   align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
   	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_plain_wordmark_logo_icon_146476.png" alt="html5" width="50" height="50"/> 
-	</a> 
+  </a> 
 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
   	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_wordmark_logo_icon_146574.png" alt="css3" width="50" height="50"/> 
-	</a>
+  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
-	</a>
+  </a>
+	
+  <a href="https://www.java.com/pt-BR/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/159/PNG/128/java_22523.png" alt="javascript" width="50" height="50"/> 
+  </a>
 </div>
 
 <div>
