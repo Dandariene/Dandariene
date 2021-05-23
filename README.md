@@ -1,12 +1,13 @@
 ### Hello, welcome! 👋
 ## I'm Dandariene :woman_technologist:
 
-<img align="right" alt="octocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621784891747.png" width:"400px"/>
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621784891747.png" width="400px" />
 
--I live in <img align="center" alt="dandariene-email" height="18" width="21" src="https://cdn.icon-icons.com/icons2/1694/PNG/128/brbrazilflag_111698.png" style="max-width:100%;"><br>
+-I live in <img align="center" alt="bandeira-Brazil" height="18" width="21" src="https://cdn.icon-icons.com/icons2/1694/PNG/128/brbrazilflag_111698.png" style="max-width:100%;"><br>
 -I'm a student of Sistems Analysis and Development 💻 <br>
 -I like to read :open_book: , travel :beach_umbrella:  and technology. :woman_technologist:<br>
 -I study front end development and my goal is to becomean excellent professional in the field. :1st_place_medal: 
+
 <br>
 <br>
 
@@ -21,7 +22,7 @@
   </a>
 
   <a href="https://wa.me/5511986659382" target="blank">
-    <img align="center" alt="dandariene-telefone" height="50" width="50" src="https://cdn.icon-icons.com/icons2/41/PNG/128/whichapplication_conversation_email_phone_7097.png" style="max-width:100%;">
+    <img align="center" alt="dandariene-whatsapp" height="50" width="50" src="https://cdn.icon-icons.com/icons2/41/PNG/128/whichapplication_conversation_email_phone_7097.png" style="max-width:100%;">
   </a>
 
   <a href="mailto:dandariene@hotmail.com" target="blank">
@@ -47,7 +48,11 @@
   </a>
 	
   <a href="https://www.java.com/pt-BR/" target="_blank"> 
-  	<img src="https://cdn.icon-icons.com/icons2/159/PNG/128/java_22523.png" alt="javascript" width="50" height="50"/> 
+  	<img src="https://cdn.icon-icons.com/icons2/159/PNG/128/java_22523.png" alt="java" width="50" height="50"/> 
+  </a>
+	
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" alt="jtypescript" width="50" height="50"/> 
   </a>
 </div>
 
@@ -69,13 +74,20 @@
   </a>
 	
 <a href="https://trello.com/" target="_blank"> 
-  	<img src="https://cdn.icon-icons.com/icons2/2429/PNG/128/trello_logo_icon_147221.png" alt="slack" width="50" height="50"/> 
+  	<img src="https://cdn.icon-icons.com/icons2/2429/PNG/128/trello_logo_icon_147221.png" alt="trello" width="50" height="50"/> 
   </a>
 </div>
+<div>
+	<p>
+	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandariene&layout=compact&theme=graywhite&title_color=268bd2" alt="Dandariene-		   Braz" />
+	</p> 
+</div>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dandariene&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Dandariene-Braz" />
+</p>
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dandariene" alt="Dandariene-Braz" /> </p>
 
 <!--
 **Dandariene/Dandariene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
