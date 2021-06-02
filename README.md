@@ -53,6 +53,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
   	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" alt="jtypescript" width="50" height="50"/> 
   </a>
+	
+  <a href="https://nodejs.org/en/download/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="Nodejs" width="50" height="50"/> 
+  </a>
+	
+  <a href="https://www.mysql.com/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="Mysql" width="50" height="50"/> 
+  </a>
 </div>
 
 <div>
