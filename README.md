@@ -16,7 +16,7 @@
     <img align="center" alt="dandariene-linkedin" height="50" width="50" src="https://cdn.icon-icons.com/icons2/99/PNG/128/linkedin_socialnetwork_17441.png" style="max-width:100%;">
   </a>
 
-  <a href="https://www.instagram.com/dandarienebraz/" target="blank">
+  <a href="https://www.instagram.com/drpbraz/" target="blank">
     <img align="center" alt="dandariene-instagram" height="50" width="50" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
   </a>
 
