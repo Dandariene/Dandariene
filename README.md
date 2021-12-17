@@ -12,19 +12,19 @@
 
 ## Connect with me:
 <div>
-  <a href="https://www.linkedin.com/in/dandariene-rp-braz/" target="blank">
+  <a href="https://www.linkedin.com/in/dandariene-rp-braz/" target="_blank">
     <img align="center" alt="dandariene-linkedin" height="50" width="50" src="https://cdn.icon-icons.com/icons2/99/PNG/128/linkedin_socialnetwork_17441.png" style="max-width:100%;">
   </a>
 
-  <a href="https://www.instagram.com/drpbraz/" target="blank">
+  <a href="https://www.instagram.com/drpbraz/" target="_blank">
     <img align="center" alt="dandariene-instagram" height="50" width="50" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
   </a>
 
-  <a href="https://wa.me/5511986659382" target="blank">
+  <a href="https://wa.me/5511986659382" target="_blank">
     <img align="center" alt="dandariene-whatsapp" height="50" width="50" src="https://cdn.icon-icons.com/icons2/41/PNG/128/whichapplication_conversation_email_phone_7097.png" style="max-width:100%;">
   </a>
 
-  <a href="mailto:dandariene@hotmail.com" target="blank">
+  <a href="mailto:dandariene@hotmail.com" target="_blank">
     <img align="center" alt="dandariene-email" height="50" width="50" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Email_30017.png" style="max-width:100%;">
   </a>
 </div>
