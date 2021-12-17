@@ -46,10 +46,6 @@
   	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
   </a>
 	
-  <a href="https://www.java.com/pt-BR/" target="_blank"> 
-  	<img src="https://cdn.icon-icons.com/icons2/159/PNG/128/java_22523.png" alt="java" width="50" height="50"/> 
-  </a>
-	
   <a href="https://www.typescriptlang.org/" target="_blank"> 
   	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" alt="jtypescript" width="50" height="50"/> 
   </a>
