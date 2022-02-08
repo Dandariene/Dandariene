@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621784891747.png" width="400px" />
 
 -I live in <img align="center" alt="bandeira-Brazil" height="18" width="21" src="https://cdn.icon-icons.com/icons2/1694/PNG/128/brbrazilflag_111698.png" style="max-width:100%;"><br>
--I'm a student of Sistems Analysis and Development 💻 <br>
+-I'm a Sistems Analyst and Web developer 💻 <br>
 -I like to read :open_book: , travel :beach_umbrella:  and technology. :woman_technologist:<br>
 -I study front end development and my goal is to becomean excellent professional in the field. :1st_place_medal: 
 
