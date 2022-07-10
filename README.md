@@ -80,17 +80,17 @@
   	<img src="https://cdn.icon-icons.com/icons2/2429/PNG/128/trello_logo_icon_147221.png" alt="trello" width="50" height="50"/> 
   </a>
 </div>
-<div>
-	<h2 align="left"> Github statistics:</h2>
-	<p>
-	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandariene&layout=compact&theme=graywhite&title_color=268bd2" alt="Dandariene-		   Braz" />
-	</p> 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dandariene&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Dandariene-Braz" />
-</p>
+##
+
+<div align="center">
+  <a href="https://github.com/Dandariene">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dandariene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandariene&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dandariene" alt="Dandariene-Braz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dandariene" alt="Dandariene-Braz" /> </p>
+
+
 
 
 <!--
