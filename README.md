@@ -46,12 +46,16 @@
   	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
   </a>
 	
+  <a href="https://nodejs.org/en/download/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="Nodejs" width="50" height="50"/> 
+  </a>
+	
   <a href="https://www.java.com/pt-BR/" target="_blank"> 
   	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="50"/> 
   </a>
 	
-  <a href="https://nodejs.org/en/download/" target="_blank"> 
-  	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="Nodejs" width="50" height="50"/> 
+  <a href="https://www.jetbrains.com/idea/promo/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="IntelliJ" width="50" height="50"/> 
   </a>
 	
   <a href="https://www.mysql.com/" target="_blank"> 
