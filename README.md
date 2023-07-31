@@ -20,7 +20,7 @@
     <img align="center" alt="dandariene-instagram" height="50" width="50" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
   </a>
 
-  <a href="https://wa.me/5511986659382" target="_blank">
+  <a href="https://wa.me/5511978293628" target="_blank">
     <img align="center" alt="dandariene-whatsapp" height="50" width="50" src="https://cdn.icon-icons.com/icons2/41/PNG/128/whichapplication_conversation_email_phone_7097.png" style="max-width:100%;">
   </a>
 
